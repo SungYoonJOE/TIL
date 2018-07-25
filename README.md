@@ -5,6 +5,11 @@
 ### HowToUseGit
 hello
 
-*JAVA
-*Android
-*C++
+* JAVA
+* Android
+* C++
+
+
+## 20180726
+
+### Kotlin
